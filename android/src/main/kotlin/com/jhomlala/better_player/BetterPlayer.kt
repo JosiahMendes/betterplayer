@@ -765,7 +765,7 @@ internal class BetterPlayer(
         private const val FORMAT_DASH = "dash"
         private const val FORMAT_HLS = "hls"
         private const val FORMAT_OTHER = "other"
-        private const val DEFAULT_NOTIFICATION_CHANNEL = "BETTER_PLAYER_NOTIFICATION"
+        private const val DEFAULT_NOTIFICATION_CHANNEL = "Video Playback"
         private const val NOTIFICATION_ID = 20772077
 
         //Clear cache without accessing BetterPlayerCache.
